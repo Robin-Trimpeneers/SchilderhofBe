@@ -1,0 +1,2377 @@
+[
+  {
+    "naam": "Delcourt Berto",
+    "datum": "2017",
+    "totem": "BLIJMOEDIGE WASBEER"
+  },
+  {
+    "naam": "Mathys Jasper",
+    "datum": "2017",
+    "totem": "PARMANTIGE VOS"
+  },
+  {
+    "naam": "Lux Youen",
+    "datum": "2017",
+    "totem": " VERDRAAGZAME MOEFLON"
+  },
+  {
+    "naam": "Schepers Lisa",
+    "datum": "2014",
+    "totem": " WARMHARTIGE TIMCA"
+  },
+  {
+    "naam": "Cologne Jo",
+    "datum": "1994",
+    "totem": "AANGENAME COATI"
+  },
+  {
+    "naam": "Thijs Xavier",
+    "datum": "2005",
+    "totem": "AANGENAME KONINGSPINGUIN"
+  },
+  {
+    "naam": "Ledoux Bert",
+    "datum": "1994",
+    "totem": "AANHOUDENDE ZEVENSLAPER"
+  },
+  {
+    "naam": "Chacana Jessica",
+    "datum": "2008",
+    "totem": "AANNEMELIJK GRIJS BOKJE"
+  },
+  {
+    "naam": "Dewaelheyns Peter",
+    "datum": "1988",
+    "totem": "ACTIEVE POOLHAAS"
+  },
+  {
+    "naam": "Van Hoof Roel",
+    "datum": "1995",
+    "totem": "AFGEMETEN ORIBIE"
+  },
+  {
+    "naam": "Coenen Celien",
+    "datum": "2009",
+    "totem": "AFWACHTENDE HUMBOLDTI"
+  },
+  {
+    "naam": "Lens Veerle",
+    "datum": "1980",
+    "totem": "AKTIEVE IBIS"
+  },
+  {
+    "naam": "Moniquet Karolien",
+    "datum": "1997",
+    "totem": "ALERTE SNEEUWSTORMVOGEL"
+  },
+  {
+    "naam": "Taffeiren Charlotte",
+    "datum": "2020",
+    "totem": "AMICALE CALUMMA"
+  },
+  {
+    "naam": "Coart Noor",
+    "datum": "1996",
+    "totem": "APARTE SALANGAAN"
+  },
+  {
+    "naam": "Demeyer Lars",
+    "datum": "2018",
+    "totem": "ARGELOZE GROENLING"
+  },
+  {
+    "naam": "Vanderwaeren Johan",
+    "datum": "1994",
+    "totem": "ARGELOZE KONINGSGIER"
+  },
+  {
+    "naam": "Langenakens Christiane",
+    "datum": "1982",
+    "totem": "ATTENTE PELIKAAN"
+  },
+  {
+    "naam": "Ieven Sarah",
+    "datum": "2002",
+    "totem": "ATTENTVOLLE HARPIA"
+  },
+  {
+    "naam": "Vanham Wannes",
+    "datum": "2022",
+    "totem": "AVONTUURLIJKE BERGBEVER"
+  },
+  {
+    "naam": "Lismont Philippe",
+    "datum": "2001",
+    "totem": "AVONTUURLIJKE DWERGOLIFANT"
+  },
+  {
+    "naam": "Vanermen Pieter",
+    "datum": "1987",
+    "totem": "AVONTUURLIJKE ZWARTE WOUW"
+  },
+  {
+    "naam": "Tijl Struiven",
+    "datum": "2024",
+    "totem": "BALDADIGE SCHILDPAD"
+  },
+  {
+    "naam": "Liesel Vanermen",
+    "datum": "2012",
+    "totem": "BARMHARTIGE VINK"
+  },
+  {
+    "naam": "Toelen Maarten",
+    "datum": "2011",
+    "totem": "BEDAARDE BUIZERD"
+  },
+  {
+    "naam": "Palm Christine",
+    "datum": "1986",
+    "totem": "BEDAARDE EGEL"
+  },
+  {
+    "naam": "Similox Jens",
+    "datum": "2004",
+    "totem": "BEDACHTZAME SCHROEFHOORNGEIT"
+  },
+  {
+    "naam": "Torsin Sander ",
+    "datum": "2014",
+    "totem": "BEDACHTZAME SERVAL"
+  },
+  {
+    "naam": "Debref Ivo",
+    "datum": "1988",
+    "totem": "BEDACHTZAME ZEEHOND"
+  },
+  {
+    "naam": "Willaerts Stéphanie",
+    "datum": "2008",
+    "totem": "BEDEESDE NACHTEGAAL"
+  },
+  {
+    "naam": "Coemans Johan",
+    "datum": "1991",
+    "totem": "BEDEESDE SPRINKHAAN"
+  },
+  {
+    "naam": "Vanermen Reinout",
+    "datum": "2015",
+    "totem": "BEDREVEN BANTENG"
+  },
+  {
+    "naam": "Vanham Korneel",
+    "datum": "2020",
+    "totem": "BEDRIJVIGE BELOEGA"
+  },
+  {
+    "naam": "Vanderwaeren Karen",
+    "datum": "1991",
+    "totem": "BEDRIJVIGE KIEVIT"
+  },
+  {
+    "naam": "Salmon Wout",
+    "datum": "2021",
+    "totem": "BEHEERSTE BUFFEL"
+  },
+  {
+    "naam": "Vanermen Jonas",
+    "datum": "2011",
+    "totem": "BEHENDIGE BIZON"
+  },
+  {
+    "naam": "Goffings Bart",
+    "datum": "1992",
+    "totem": "BEHENDIGE CARACARA"
+  },
+  {
+    "naam": "Martin Paul",
+    "datum": "2004",
+    "totem": "BEHENDIGE SNEEUWUIL"
+  },
+  {
+    "naam": "Collard Rhonny",
+    "datum": "2005",
+    "totem": "BEHOEDZAME DROMEDARIS"
+  },
+  {
+    "naam": "Cailloux Jan",
+    "datum": "1992",
+    "totem": "BEHOEDZAME ELANDANTILOPE"
+  },
+  {
+    "naam": "Libioulle Marverick ",
+    "datum": "2015",
+    "totem": "BEHOEDZAME WITKOPAREND"
+  },
+  {
+    "naam": "Nulens Marlies",
+    "datum": "2007",
+    "totem": "BEHULPZAME AIDI"
+  },
+  {
+    "naam": "Boffe Betty",
+    "datum": "1984",
+    "totem": "BEHULPZAME WASBEER"
+  },
+  {
+    "naam": "Loyaerts An",
+    "datum": "1997",
+    "totem": "BEKOORLIJK SIJSJE"
+  },
+  {
+    "naam": "Mievis Janne",
+    "datum": "2021",
+    "totem": "BEMINNELIJKE KLIPDAS"
+  },
+  {
+    "naam": "Cloots Inge",
+    "datum": "1997",
+    "totem": "BEMINNELIJKE SNEEUWUIL"
+  },
+  {
+    "naam": "Schevenels Tina",
+    "datum": "2009",
+    "totem": "BEREIDWILLIGE FEROX"
+  },
+  {
+    "naam": "Gillard Ivo",
+    "datum": "1981",
+    "totem": "BEREIDWILLIGE KARIBOE"
+  },
+  {
+    "naam": "Trimpeneers Robin",
+    "datum": "2021",
+    "totem": "BEREIDWILLIGE SNEEUWUIL"
+  },
+  {
+    "naam": "Similox Dominique",
+    "datum": "1996",
+    "totem": "BEREKENDE OTOGONE"
+  },
+  {
+    "naam": "Amber Coenen",
+    "datum": "2016",
+    "totem": "BESCHEIDEN SECRETARIO"
+  },
+  {
+    "naam": "Leen Segers",
+    "datum": "2013",
+    "totem": "BESLISTE SIFAKA"
+  },
+  {
+    "naam": "Colsoul Marie-Paule",
+    "datum": "1978",
+    "totem": "BESLOTEN DORTEL"
+  },
+  {
+    "naam": "Sprengers Myriam",
+    "datum": "1986",
+    "totem": "BETROUWBARE BOUVIER"
+  },
+  {
+    "naam": "Frison Hans",
+    "datum": "2008",
+    "totem": "BETROUWBARE KAPUCIJNAAP"
+  },
+  {
+    "naam": "Ieven Luc",
+    "datum": "1976",
+    "totem": "BEZADIGDE OTTER"
+  },
+  {
+    "naam": "Lore Van der Heyden",
+    "datum": "2024",
+    "totem": "BEZIELDE ZWAAN"
+  },
+  {
+    "naam": "Ledoux Peter",
+    "datum": "1989",
+    "totem": "BEZIELENDE IMPALA"
+  },
+  {
+    "naam": "Kempeneers Mieke",
+    "datum": "1982",
+    "totem": "BEZIG MEESJE"
+  },
+  {
+    "naam": "Dewaelheyns Ewout",
+    "datum": "2021",
+    "totem": "BIJDEHANDSE PAPEGAAI"
+  },
+  {
+    "naam": "Mélotte Joris",
+    "datum": "2004",
+    "totem": "BIJDEHANDSE WATERSNIP"
+  },
+  {
+    "naam": "Steveny Delphine",
+    "datum": "2001",
+    "totem": "BIZARRE GALAGO"
+  },
+  {
+    "naam": "Jammaer Bert",
+    "datum": "1998",
+    "totem": "BIZARRE RUIGPOOTUIL"
+  },
+  {
+    "naam": "Sterkendries Dorien",
+    "datum": "2008",
+    "totem": "BLIJGEESTIG STOKSTAARTJE"
+  },
+  {
+    "naam": "Lore Freson",
+    "datum": "2013",
+    "totem": "BLIJHARTIGE SNEEUWPETREL"
+  },
+  {
+    "naam": "Coemans Sunitha",
+    "datum": "1993",
+    "totem": "BLIJMOEDIGE NYELA"
+  },
+  {
+    "naam": "Jacquemin Iris",
+    "datum": "1984",
+    "totem": "BLOZENDE KINKAJOU"
+  },
+  {
+    "naam": "Berghmans Leen",
+    "datum": "2002",
+    "totem": "BLOZENDE MUNGO"
+  },
+  {
+    "naam": "Goffins Peter",
+    "datum": "1986",
+    "totem": "BLOZENDE PREZWALSKI"
+  },
+  {
+    "naam": "Marsoul Guido",
+    "datum": "1979",
+    "totem": "BOEIEND DAMHERT"
+  },
+  {
+    "naam": "Baron Vic",
+    "datum": "2021",
+    "totem": "BOUTE SLANGEHALSVOGEL"
+  },
+  {
+    "naam": "Thiry Koen",
+    "datum": "1996",
+    "totem": "BRIESENDE LAR"
+  },
+  {
+    "naam": "Moniquet Henri",
+    "datum": "1932",
+    "totem": "BRIESENDE LEEUW"
+  },
+  {
+    "naam": "Coart Chris",
+    "datum": "1986",
+    "totem": "BROZE WITKUIFLIJSTERGAAI"
+  },
+  {
+    "naam": "De Riemaecker Alexa",
+    "datum": "2019",
+    "totem": "BRUISENDE AKATIA"
+  },
+  {
+    "naam": "Ganne Achille",
+    "datum": "2023",
+    "totem": "BRULESKE BEO"
+  },
+  {
+    "naam": "Salmon Christophe",
+    "datum": "1993",
+    "totem": "CHARMANTE KEA"
+  },
+  {
+    "naam": "Renkens Lore",
+    "datum": "2008",
+    "totem": "CHARMANTE SCHOENBEKOOIEVAAR"
+  },
+  {
+    "naam": "Maide Aydagdu",
+    "datum": "2013",
+    "totem": "CLEMENTE FLICKA"
+  },
+  {
+    "naam": "Anteuins Gilbert",
+    "datum": "1943",
+    "totem": "COBRA"
+  },
+  {
+    "naam": "Petré Eric",
+    "datum": "1997",
+    "totem": "COULANTE SPITSVOGEL"
+  },
+  {
+    "naam": "Seppe Coenen",
+    "datum": "2012",
+    "totem": "CREATIEVE HARDOEN"
+  },
+  {
+    "naam": "Vanermen Tanja",
+    "datum": "1986",
+    "totem": "CREATIEVE MEERKAT"
+  },
+  {
+    "naam": "Hoebrechts Diane",
+    "datum": "1977",
+    "totem": "CREATIEVE PELIKAAN"
+  },
+  {
+    "naam": "Reniers Koen",
+    "datum": "2003",
+    "totem": "CREATIEVE RODE ARA"
+  },
+  {
+    "naam": "Robijns Kim",
+    "datum": "2011",
+    "totem": "CURIEUZE MARKHOOR"
+  },
+  {
+    "naam": "Aïsa Lowel",
+    "datum": "2024",
+    "totem": "DAADKRACHTIGE TIGRIS"
+  },
+  {
+    "naam": "Lotte Vanham",
+    "datum": "2024",
+    "totem": "DAPPERE ZEEWOLF"
+  },
+  {
+    "naam": "Brouckmans Leen",
+    "datum": "1992",
+    "totem": "DARTEL KWIKSTAARTJE"
+  },
+  {
+    "naam": "Vanermen Clint",
+    "datum": "2014",
+    "totem": "DARTELE DWERGVALK"
+  },
+  {
+    "naam": "Gillet Mieke",
+    "datum": "2002",
+    "totem": "DARTELE KLEINE KARAKIET"
+  },
+  {
+    "naam": "Reniers Christiane",
+    "datum": "1977",
+    "totem": "DARTELE REE"
+  },
+  {
+    "naam": "Lowel Ulyana",
+    "datum": "2021",
+    "totem": "DELFISCHE GUANACO"
+  },
+  {
+    "naam": "Somers Andries",
+    "datum": "2010",
+    "totem": "DEUGDZAAM NIPPONHERT"
+  },
+  {
+    "naam": "De Vleeschauwer Thibau",
+    "datum": "2019",
+    "totem": "DEUGDZAME HONINGBEER"
+  },
+  {
+    "naam": "Nelissen Axel",
+    "datum": "2010",
+    "totem": "DOLZINNIGE OEISTITI"
+  },
+  {
+    "naam": "Bronckaers Toon",
+    "datum": "1976",
+    "totem": "DOORBIJTENDE NACHTEGAAL"
+  },
+  {
+    "naam": "Ceuleers Eric",
+    "datum": "1983",
+    "totem": "DOORDACHTE FOUNDLANDER"
+  },
+  {
+    "naam": "Haesevoets Pieter-Jan",
+    "datum": "1997",
+    "totem": "DOORDACHTE HYENA"
+  },
+  {
+    "naam": "Champagne Sofie",
+    "datum": "1995",
+    "totem": "DOORDACHTE STEENAREND"
+  },
+  {
+    "naam": "Andries Liam",
+    "datum": "2020",
+    "totem": "DOORDRIJVENDE CARACARA"
+  },
+  {
+    "naam": "Kinnaer Inge",
+    "datum": "1983",
+    "totem": "DOORDRIJVENDE COYOTE"
+  },
+  {
+    "naam": "Gillard Wim",
+    "datum": "2003",
+    "totem": "DOORTASTENDE ADELAAR"
+  },
+  {
+    "naam": "De Vleeschauwer Charlotte",
+    "datum": "2021",
+    "totem": "DOORTASTENDE DINGO"
+  },
+  {
+    "naam": "Ulens Sophie",
+    "datum": "1996",
+    "totem": "DOORZETTENDE ROODRUGPELIKAAN"
+  },
+  {
+    "naam": "Coemans Bert",
+    "datum": "1991",
+    "totem": "DROMERIGE GRIJZE ROODSTAART"
+  },
+  {
+    "naam": "Neven Marleen",
+    "datum": "1977",
+    "totem": "DROMERIGE MERRIE"
+  },
+  {
+    "naam": "Hendriks Wannes",
+    "datum": "2020",
+    "totem": "DROMERIGE SPRINGBOK"
+  },
+  {
+    "naam": "Boyen Fien",
+    "datum": "2020",
+    "totem": "DUCHTIGE PINGUÏN"
+  },
+  {
+    "naam": "Victor Engelbosch",
+    "datum": "2024",
+    "totem": "DYNAMISCHE GOUDTOEKAN"
+  },
+  {
+    "naam": "Decat Isabo",
+    "datum": "2011",
+    "totem": "EDELMOEDIGE POOLVOS"
+  },
+  {
+    "naam": "Dewil Marijke",
+    "datum": "1977",
+    "totem": "EDELMOEDIGE ZWAAN"
+  },
+  {
+    "naam": "Tibau Jan",
+    "datum": "1986",
+    "totem": "EENVOUDIGE KATTA"
+  },
+  {
+    "naam": "Michaux Dorien",
+    "datum": "2009",
+    "totem": "EERLIJKE KLIPDAS"
+  },
+  {
+    "naam": "Ieven Geert",
+    "datum": "1981",
+    "totem": "EERLIJKE SINT-BERNARD"
+  },
+  {
+    "naam": "Hellers Judith",
+    "datum": "1996",
+    "totem": "EIGENWIJZE KAKARIKI"
+  },
+  {
+    "naam": "Degreef Machteld",
+    "datum": "1995",
+    "totem": "EIGENZINNIGE ZWARTKOPGAAI"
+  },
+  {
+    "naam": "Van Hissenhoven Yasmine ",
+    "datum": "2015",
+    "totem": "ELEGANTE PERDIX"
+  },
+  {
+    "naam": "Martin Fabienne",
+    "datum": "2002",
+    "totem": "ELEGANTE SARIGATII"
+  },
+  {
+    "naam": "Winderix Kato",
+    "datum": "2022",
+    "totem": "ELYSISCHE BAMBOEBEER"
+  },
+  {
+    "naam": "Dewil Justien",
+    "datum": "2008",
+    "totem": "ENERGIEKE DRONGO"
+  },
+  {
+    "naam": "Pierquet benny",
+    "datum": "1992",
+    "totem": "ENERGIEKE KOLIBRIE"
+  },
+  {
+    "naam": "Peeters Paul",
+    "datum": "1982",
+    "totem": "ENERGIEKE LORI"
+  },
+  {
+    "naam": "Devijver Jonas",
+    "datum": "2018",
+    "totem": "ENERGIEKE WALIA"
+  },
+  {
+    "naam": "Guilliams Wendy",
+    "datum": "2002",
+    "totem": "ENTHOUSIASTE PICA PICA"
+  },
+  {
+    "naam": "Lux Wim",
+    "datum": "1990",
+    "totem": "ERNSTIGE BERGTAPIR"
+  },
+  {
+    "naam": "Debref Vera",
+    "datum": "1985",
+    "totem": "EVENWICHTIGE TUIMELAAR"
+  },
+  {
+    "naam": "Axel Bruyndonckx",
+    "datum": "2024",
+    "totem": "EXPLORATIEVE SERIEMA"
+  },
+  {
+    "naam": "Flores Temis ",
+    "datum": "2016",
+    "totem": "EXPRESSIEVE KATOENSTAART"
+  },
+  {
+    "naam": "Lenaerts Hannelore",
+    "datum": "2021",
+    "totem": "EXTATISCHE ZEBRA"
+  },
+  {
+    "naam": "Pollenus Tom",
+    "datum": "1995",
+    "totem": "FELLE SPIESBOK"
+  },
+  {
+    "naam": "Ulens Dries",
+    "datum": "2020",
+    "totem": "FERVENTE SNOEK"
+  },
+  {
+    "naam": "Pansaers Paulien",
+    "datum": "2020",
+    "totem": "FIDELE VARI"
+  },
+  {
+    "naam": "Loisse Femke",
+    "datum": "2010",
+    "totem": "FLEURIGE MAKI"
+  },
+  {
+    "naam": "Melly Matterne",
+    "datum": "2024",
+    "totem": "FLEURIGE MARA"
+  },
+  {
+    "naam": "Beutels Yoeni",
+    "datum": "2007",
+    "totem": "FLINKE SERVAL"
+  },
+  {
+    "naam": "Vanham Jeroen",
+    "datum": "1990",
+    "totem": "FLINKE ZEEROB"
+  },
+  {
+    "naam": "Taffeiren Alexander ",
+    "datum": "2015",
+    "totem": "FORSE AZARA"
+  },
+  {
+    "naam": "Casters Luna",
+    "datum": "2019",
+    "totem": "FRIVOLE FODI"
+  },
+  {
+    "naam": "De Swert Largo",
+    "datum": "2021",
+    "totem": "GALANTE GRIEND"
+  },
+  {
+    "naam": "Dewaelheyns Anne",
+    "datum": "1986",
+    "totem": "GEDIENSTIGE CAVIA"
+  },
+  {
+    "naam": "Loisse Kevin",
+    "datum": "2008",
+    "totem": "GEDREVEN STREEPMUIS"
+  },
+  {
+    "naam": "Vollon Alyssa",
+    "datum": "2018",
+    "totem": "GEDURFDE SAKI"
+  },
+  {
+    "naam": "Ieven Johan",
+    "datum": "1975",
+    "totem": "GEDWEËE BEER"
+  },
+  {
+    "naam": "Suttels Geert",
+    "datum": "1993",
+    "totem": "GEDWEËE SAÏGA"
+  },
+  {
+    "naam": "Smets Catherine",
+    "datum": "1986",
+    "totem": "GEESTIGE KOKMEEUW"
+  },
+  {
+    "naam": "Sevenants Pieter-Jan",
+    "datum": "2008",
+    "totem": "GEMEENZAME SINT BERNARD"
+  },
+  {
+    "naam": "Jammaer Katleen",
+    "datum": "1992",
+    "totem": "GEMOEDELIJK LIEVEHEERSBEESTJE"
+  },
+  {
+    "naam": "Hanne Boyen ",
+    "datum": "2016",
+    "totem": "GEMOEDELIJKE ORKA"
+  },
+  {
+    "naam": "De Roeck Frederik",
+    "datum": "2004",
+    "totem": "GEMOEDELIJKE WITTE SIFAKA"
+  },
+  {
+    "naam": "Coenen Guy",
+    "datum": "1980",
+    "totem": "GEMOEDIGE LAMA"
+  },
+  {
+    "naam": "Berghmans Wouter",
+    "datum": "2002",
+    "totem": "GENIETEND DWERGNIJLPAARD"
+  },
+  {
+    "naam": "Guilliams Geert",
+    "datum": "1984",
+    "totem": "GENIETENDE KOESKOES"
+  },
+  {
+    "naam": "Femke Vandenwauver",
+    "datum": "2013",
+    "totem": "GENIETENDE KONINGSWOUW"
+  },
+  {
+    "naam": "Dewaelheyns Leen",
+    "datum": "1995",
+    "totem": "GENIETENDE SCHOENBEKOOIEVAAR"
+  },
+  {
+    "naam": "Cailloux Liesbet",
+    "datum": "1994",
+    "totem": "GENOEGLIJK BAMBOEBEERTJE"
+  },
+  {
+    "naam": "Berwaerts Lorenz",
+    "datum": "2006",
+    "totem": "GENOEGLIJKE STEKELSTAARTEEKHOORN"
+  },
+  {
+    "naam": "Bruyndonckx Astrid",
+    "datum": "2020",
+    "totem": "GEPASSIONEERDE DISTELVINK"
+  },
+  {
+    "naam": "Lhereux Raphaël",
+    "datum": "2001",
+    "totem": "GEVATTE BUNZING"
+  },
+  {
+    "naam": "Vanmunster Geert",
+    "datum": "1984",
+    "totem": "GEVOELIGE GRINDEWAL"
+  },
+  {
+    "naam": "Champagne Alain",
+    "datum": "1982",
+    "totem": "GEVOELIGE HAAN"
+  },
+  {
+    "naam": "Noel Ingrid",
+    "datum": "1977",
+    "totem": "GEVOELIGE VINK"
+  },
+  {
+    "naam": "Conard Luka",
+    "datum": "2019",
+    "totem": "GEWAADGDE BINTOERONG"
+  },
+  {
+    "naam": "Willems Lara",
+    "datum": "2019",
+    "totem": "GEWIEKSTE SARUS"
+  },
+  {
+    "naam": "Schepers Stef",
+    "datum": "2018",
+    "totem": "GEZAPIGE KONGONI"
+  },
+  {
+    "naam": "Dimitry Bamps",
+    "datum": "2012",
+    "totem": "GEZELLIGE COBAYE"
+  },
+  {
+    "naam": "Schiemsky Iris",
+    "datum": "1991",
+    "totem": "GEZELLIGE JARIBOE"
+  },
+  {
+    "naam": "Casters An",
+    "datum": "1997",
+    "totem": "GEZELLIGE SPRINGANTILOPE"
+  },
+  {
+    "naam": "Minten Dirk",
+    "datum": "1982",
+    "totem": "GLADDE YAK"
+  },
+  {
+    "naam": "Demeyer Amber",
+    "datum": "2022",
+    "totem": "GLOEDVOLLE PRAIRIEWOLF"
+  },
+  {
+    "naam": "Behiels Julie",
+    "datum": "2021",
+    "totem": "GLUNDERE FLAMINGO"
+  },
+  {
+    "naam": "Smet Elias",
+    "datum": "2019",
+    "totem": "GOEDGEBEKTE MERLO"
+  },
+  {
+    "naam": "Minten Griet",
+    "datum": "1991",
+    "totem": "GOEDGELUIMDE POEDOE"
+  },
+  {
+    "naam": "Trimpeneers Mieke",
+    "datum": "1993",
+    "totem": "GOEDHARTIG KOOLWITJE"
+  },
+  {
+    "naam": "Levecq Emilie",
+    "datum": "2008",
+    "totem": "GOEDHARTIGE CHINCHILLA"
+  },
+  {
+    "naam": "Eertmans patrick",
+    "datum": "1984",
+    "totem": "GOEDHARTIGE KAPUCIJNAAP"
+  },
+  {
+    "naam": "Berghmans Bert",
+    "datum": "2000",
+    "totem": "GOEDIGE GAUR"
+  },
+  {
+    "naam": "Daenen Filip",
+    "datum": "1990",
+    "totem": "GOEDIGE GRIMBAARD"
+  },
+  {
+    "naam": "Erwan Lux ",
+    "datum": "2014",
+    "totem": "GOEDIGE JAKO"
+  },
+  {
+    "naam": "Bollen Jean-Pierre",
+    "datum": "1977",
+    "totem": "GOEDIGE SCHILDPAD"
+  },
+  {
+    "naam": "Noe Pela",
+    "datum": "1986",
+    "totem": "GOEDIGE WEZEL"
+  },
+  {
+    "naam": "Segers Niels",
+    "datum": "2008",
+    "totem": "GOEDMOEDIGE JAK"
+  },
+  {
+    "naam": "Lauwers Noor",
+    "datum": "2022",
+    "totem": "GRACIEUZE AMAZILIA"
+  },
+  {
+    "naam": "Schreurs Jessica",
+    "datum": "1996",
+    "totem": "GRILLIGE STEENBOK"
+  },
+  {
+    "naam": "Demolon Nancy",
+    "datum": "1991",
+    "totem": "GUITIG WINTERKONINKJE"
+  },
+  {
+    "naam": "Cologne Stijn",
+    "datum": "2000",
+    "totem": "GUITIGE COUA"
+  },
+  {
+    "naam": "Celis Marleen",
+    "datum": "1977",
+    "totem": "GUITIGE PINGUIN"
+  },
+  {
+    "naam": "Conard Nick ",
+    "datum": "2016",
+    "totem": "GUITIGE PYTHON"
+  },
+  {
+    "naam": "Durinckx Yvan",
+    "datum": "1976",
+    "totem": "HANDIGE MARMOT"
+  },
+  {
+    "naam": "Siebe Nooyens",
+    "datum": "2024",
+    "totem": "HANDVAARDIGE BERGLEMMING"
+  },
+  {
+    "naam": "Degroot Yoerick",
+    "datum": "2004",
+    "totem": "HARDNEKKIGE MUSTANG"
+  },
+  {
+    "naam": "Tibau Jo",
+    "datum": "1982",
+    "totem": "HARDNEKKIGE WALVIS"
+  },
+  {
+    "naam": "Berghmans Boris",
+    "datum": "2005",
+    "totem": "HARTELIJKE SLANGENHALSVOGEL"
+  },
+  {
+    "naam": "Winnen Ria",
+    "datum": "1978",
+    "totem": "HELPEND PAARD"
+  },
+  {
+    "naam": "Christiaens Gilles",
+    "datum": "2011",
+    "totem": "HEVIGE HERMELIJN"
+  },
+  {
+    "naam": "Toelen Sandra",
+    "datum": "1985",
+    "totem": "HULPVAARDIGE EMOE"
+  },
+  {
+    "naam": "Niels Michaux",
+    "datum": "2013",
+    "totem": "HULPVAARDIGE HATHI"
+  },
+  {
+    "naam": "Venelderen Piet",
+    "datum": "1986",
+    "totem": "HULPVAARDIGE TOEKAN"
+  },
+  {
+    "naam": "Ulens Thomas",
+    "datum": "1999",
+    "totem": "INNEMENDE BLAUWE ARA"
+  },
+  {
+    "naam": "Renkens Hilde",
+    "datum": "1979",
+    "totem": "INNIG WIPSTAARTJE"
+  },
+  {
+    "naam": "Goyens Jonas",
+    "datum": "2007",
+    "totem": "INSCHIKKELIJKE SPRINGBOK"
+  },
+  {
+    "naam": "Neven Hedwig",
+    "datum": "1986",
+    "totem": "INTELLIGENTE WATOESSI"
+  },
+  {
+    "naam": "Muls Evi",
+    "datum": "2011",
+    "totem": "INTENSE GIBBON"
+  },
+  {
+    "naam": "Moniquet Kristien",
+    "datum": "1992",
+    "totem": "INVENTIEVE LIBELLE"
+  },
+  {
+    "naam": "Torsin Aurore",
+    "datum": "2002",
+    "totem": "INVENTIEVE TYTO"
+  },
+  {
+    "naam": "Vanermen Florent",
+    "datum": "1937",
+    "totem": "JODELENDE EKSTER"
+  },
+  {
+    "naam": "Goyens Hugo",
+    "datum": "1977",
+    "totem": "JOLIG FLUWIJN"
+  },
+  {
+    "naam": "Dewaelheyns Gert",
+    "datum": "1985",
+    "totem": "JOLIGE ALPENKOUW"
+  },
+  {
+    "naam": "Peeters Dieter",
+    "datum": "1999",
+    "totem": "JOLIGE STEKELSTAARTEEKHOORN"
+  },
+  {
+    "naam": "Lauwerys Louis ",
+    "datum": "2015",
+    "totem": "JOLIGE TOEKAN"
+  },
+  {
+    "naam": "Kaspers Peter",
+    "datum": "1982",
+    "totem": "JOVIALE LEEUW"
+  },
+  {
+    "naam": "Colsoul Marie-Jeanne",
+    "datum": "1945",
+    "totem": "JOVIALE PANDA"
+  },
+  {
+    "naam": "Delcourt Roel ",
+    "datum": "2014",
+    "totem": "JOVIALE SLECHTVALK"
+  },
+  {
+    "naam": "Bollen Bart",
+    "datum": "1993",
+    "totem": "JOVIALE STEENPATRIJS"
+  },
+  {
+    "naam": "De Martelaere Andrée",
+    "datum": "1948",
+    "totem": "KLIMOP"
+  },
+  {
+    "naam": "Sprengers Jaques",
+    "datum": "1943",
+    "totem": "KODDIG KONINKJE"
+  },
+  {
+    "naam": "Breels Sapho",
+    "datum": "2020",
+    "totem": "KODDIGE FURA"
+  },
+  {
+    "naam": "Plevoets Frank",
+    "datum": "1989",
+    "totem": "KOELE BAVIAAN"
+  },
+  {
+    "naam": "Vanhissenhoven Georges",
+    "datum": "1982",
+    "totem": "KOESTEREND RENDIER"
+  },
+  {
+    "naam": "Stiers Wendy",
+    "datum": "1994",
+    "totem": "KOESTERENDE MACAO"
+  },
+  {
+    "naam": "Coenen Tjarre",
+    "datum": "2021",
+    "totem": "KOLDERIEKE TAPIR"
+  },
+  {
+    "naam": "Vanham Joris",
+    "datum": "1992",
+    "totem": "KOMISCHE LEPELAAR"
+  },
+  {
+    "naam": "Ceuleers Sonja",
+    "datum": "1984",
+    "totem": "KOPPIGE MONNIKSPARKIET"
+  },
+  {
+    "naam": "Vanermen Nore ",
+    "datum": "2016",
+    "totem": "KRACHTIGE LARGHA"
+  },
+  {
+    "naam": "Roumieux Mark",
+    "datum": "1981",
+    "totem": "KRACHTIGE VALK"
+  },
+  {
+    "naam": "Irvine Okitawato",
+    "datum": "2024",
+    "totem": "KRANIGE IJSVOGEL"
+  },
+  {
+    "naam": "Minten Ria",
+    "datum": "1981",
+    "totem": "KRANIGE OCTOPUS"
+  },
+  {
+    "naam": "Molemans Guido",
+    "datum": "1978",
+    "totem": "KREKEL"
+  },
+  {
+    "naam": "Breels Paul",
+    "datum": "1980",
+    "totem": "KRITISCHE KONDOR"
+  },
+  {
+    "naam": "Uyttebroek Kristof",
+    "datum": "1996",
+    "totem": "KRITISCHE PACA"
+  },
+  {
+    "naam": "Claes Hilde",
+    "datum": "1987",
+    "totem": "KRITISCHE PANDA"
+  },
+  {
+    "naam": "Van Meulder Katrien",
+    "datum": "1995",
+    "totem": "KRITISCHE SLANGEHALSVOGEL"
+  },
+  {
+    "naam": "Roggeman Morgane ",
+    "datum": "2016",
+    "totem": "KRONKELENDE EMIPPO"
+  },
+  {
+    "naam": "Hombroux Floris",
+    "datum": "1999",
+    "totem": "KWIEKE ZADELJAKHALS"
+  },
+  {
+    "naam": "Hoebrechts Mia",
+    "datum": "1985",
+    "totem": "LACHENDE STORMVOGEL"
+  },
+  {
+    "naam": "Neven Wilfried",
+    "datum": "1983",
+    "totem": "LACONISCHE KOEDOE"
+  },
+  {
+    "naam": "Van Meulder Jo",
+    "datum": "1999",
+    "totem": "LANKMOEDIGE GIERVALK"
+  },
+  {
+    "naam": "Sprengers Patrick",
+    "datum": "1981",
+    "totem": "LEIDEND EDELHERT"
+  },
+  {
+    "naam": "Sieben Berwaerts",
+    "datum": "2012",
+    "totem": "LEIDINGGEVENDE ABOE"
+  },
+  {
+    "naam": "Mertens Eddy",
+    "datum": "1975",
+    "totem": "LENIGE PANTER"
+  },
+  {
+    "naam": "Baivy Auriane",
+    "datum": "2007",
+    "totem": "LEVENDIG WINTERKONINKJE"
+  },
+  {
+    "naam": "Vandevelde Dirk",
+    "datum": "1979",
+    "totem": "LEVENDIGE GEMS"
+  },
+  {
+    "naam": "Astrid Laporte",
+    "datum": "2013",
+    "totem": "LEVENSLUSTIGE AGAME"
+  },
+  {
+    "naam": "Hombroux Greta",
+    "datum": "1977",
+    "totem": "LEVENSLUSTIGE BIJ"
+  },
+  {
+    "naam": "Madeleine Van Grieken",
+    "datum": "2024",
+    "totem": "LEVENSLUSTIGE DOLFIJN"
+  },
+  {
+    "naam": "Dewaelheyns Peggy",
+    "datum": "1990",
+    "totem": "LEVENSLUSTIGE FLICKA"
+  },
+  {
+    "naam": "De Spiegeleer Caprice",
+    "datum": "2020",
+    "totem": "LICHTHARTIG ZEEPAARDJE"
+  },
+  {
+    "naam": "Vanmarsenille Hanne",
+    "datum": "2022",
+    "totem": "LIEFDADIGE CITROENVLINDER"
+  },
+  {
+    "naam": "Toelen Carine",
+    "datum": "1980",
+    "totem": "LIEVE COLLIE"
+  },
+  {
+    "naam": "Michoel Jos",
+    "datum": "1936",
+    "totem": "LISTIGE KAT"
+  },
+  {
+    "naam": "Marsoul Willy",
+    "datum": "1977",
+    "totem": "LISTIGE LEEUWERIK"
+  },
+  {
+    "naam": "Vanderschelde Geert",
+    "datum": "1987",
+    "totem": "LOSBANDIGE OERSON"
+  },
+  {
+    "naam": "Bammens Ruben ",
+    "datum": "2014",
+    "totem": "LOYALE COËNDOU"
+  },
+  {
+    "naam": "Graindor Jordy",
+    "datum": "2020",
+    "totem": "LUCHTHARTIG STOKSTAARTJE"
+  },
+  {
+    "naam": "Beverdam Charel",
+    "datum": "2010",
+    "totem": "LUCHTHARTIGE PANDA"
+  },
+  {
+    "naam": "Vanermen Mendes ",
+    "datum": "2014",
+    "totem": "LUCHTIGE BRULAAP"
+  },
+  {
+    "naam": "Helsen Paul",
+    "datum": "1982",
+    "totem": "LUDIEKE HUSKY"
+  },
+  {
+    "naam": "Debrock Eline",
+    "datum": "2008",
+    "totem": "LUISTERBEREIDE BUBO"
+  },
+  {
+    "naam": "Vanderschelde Sofie",
+    "datum": "1996",
+    "totem": "LUISTERBEREIDE SIMOENG"
+  },
+  {
+    "naam": "Linnekens Anne",
+    "datum": "1986",
+    "totem": "LUISTERVAARDIGE WOMBAT"
+  },
+  {
+    "naam": "Vanderschelde Brecht",
+    "datum": "2010",
+    "totem": "LUSTIGE ANI"
+  },
+  {
+    "naam": "Guilliams Jessica",
+    "datum": "2007",
+    "totem": "MEELEVENDE BLAUWE EKSTER"
+  },
+  {
+    "naam": "Hombroek Luc",
+    "datum": "1988",
+    "totem": "MEELEVENDE SERVAL"
+  },
+  {
+    "naam": "Van Meulder Nele",
+    "datum": "1998",
+    "totem": "MERKWAARDIGE BLAUWRUG"
+  },
+  {
+    "naam": "Jammaer Wim",
+    "datum": "1995",
+    "totem": "MERKWAARDIGE SLINGERAAP"
+  },
+  {
+    "naam": "Journée Martine",
+    "datum": "1996",
+    "totem": "MIJMEREND SIKAHERT"
+  },
+  {
+    "naam": "Petre An",
+    "datum": "1982",
+    "totem": "MIJMERENDE HERDERSHOND"
+  },
+  {
+    "naam": "Pansaerts Rogier",
+    "datum": "2014",
+    "totem": "MIJMERENDE HYSTERIX"
+  },
+  {
+    "naam": "Morren Frederika",
+    "datum": "1976",
+    "totem": "MOEDIGE KOALA"
+  },
+  {
+    "naam": "Horevoets Brecht",
+    "datum": "2011",
+    "totem": "MOEDIGE STEENBOK"
+  },
+  {
+    "naam": "Vanvuchelen Leen",
+    "datum": "1998",
+    "totem": "MONTERE WIELEWAAL"
+  },
+  {
+    "naam": "Semianets Alika ",
+    "datum": "2016",
+    "totem": "MYSTERIEUZE MELES"
+  },
+  {
+    "naam": "Jammaers Lars",
+    "datum": "2021",
+    "totem": "MYSTIEKE MANTA"
+  },
+  {
+    "naam": "Febe Vanermen",
+    "datum": "2013",
+    "totem": "NATUURLIJKE NOEFTY"
+  },
+  {
+    "naam": "Draelants Jan",
+    "datum": "1996",
+    "totem": "NATUURLIJKE STELTRAL"
+  },
+  {
+    "naam": "Berghmans Pieter",
+    "datum": "2001",
+    "totem": "NOESTE GRIJZE TORENVALK"
+  },
+  {
+    "naam": "De Swert Mattis",
+    "datum": "2021",
+    "totem": "NUCHTERE NANDOE"
+  },
+  {
+    "naam": "Neven Mark",
+    "datum": "1977",
+    "totem": "OLIJKE DOLFIJN"
+  },
+  {
+    "naam": "Robbe Smets",
+    "datum": "2024",
+    "totem": "OLIJKE KOEROEBA"
+  },
+  {
+    "naam": "Lenaerts Bart",
+    "datum": "1983",
+    "totem": "OMZEILENDE CHIMPANSEE"
+  },
+  {
+    "naam": "Hoebrechts Geert",
+    "datum": "1993",
+    "totem": "OMZEILENDE STEPPENKLIPDAS"
+  },
+  {
+    "naam": "Vanhissenhoven Patrick",
+    "datum": "1991",
+    "totem": "OMZEILENDE TARPAN"
+  },
+  {
+    "naam": "Somers Jasper",
+    "datum": "2007",
+    "totem": "OMZICHTIGE OERZON"
+  },
+  {
+    "naam": "Vansimpsen Kim",
+    "datum": "1997",
+    "totem": "ONBAADZUCHTIGE SIFAKA"
+  },
+  {
+    "naam": "De Sterck Julie",
+    "datum": "2014",
+    "totem": "ONBESUISDE CORVUS"
+  },
+  {
+    "naam": "Coemans Sofie",
+    "datum": "1995",
+    "totem": "ONBESUISDE WYOELDA"
+  },
+  {
+    "naam": "Van Overbeeke Naïa",
+    "datum": "2023",
+    "totem": "ONBEVANGEN DRONGO"
+  },
+  {
+    "naam": "Vanderwaeren Els",
+    "datum": "1993",
+    "totem": "ONDERNEMENDE RAKSJA"
+  },
+  {
+    "naam": "Lanneer Lore",
+    "datum": "2010",
+    "totem": "ONDERNEMENDE STELTRAL"
+  },
+  {
+    "naam": "Vandevelde Nena",
+    "datum": "2009",
+    "totem": "ONDEUGEND SPITSVOGELTJE"
+  },
+  {
+    "naam": "Engelbosch Olivia",
+    "datum": "2022",
+    "totem": "ONDEUGENDE PICA"
+  },
+  {
+    "naam": "Devleeschauwer Stephanie",
+    "datum": "1997",
+    "totem": "ONDEUGENDE SLAAPMUIS"
+  },
+  {
+    "naam": "Robert Evi",
+    "datum": "1993",
+    "totem": "ONDEUGENDE TAGOEAN"
+  },
+  {
+    "naam": "Mignolet Jany",
+    "datum": "2018",
+    "totem": "ONGEDWONGEN AJAJA"
+  },
+  {
+    "naam": "Nelissen Zeger",
+    "datum": "2006",
+    "totem": "ONGEDWONGEN GEMS"
+  },
+  {
+    "naam": "Maaren Massin",
+    "datum": "2024",
+    "totem": "ONGEDWONGEN GORILLA"
+  },
+  {
+    "naam": "Roggeman Deborah",
+    "datum": "2020",
+    "totem": "ONGEREMDE VINI"
+  },
+  {
+    "naam": "Roosen Lore",
+    "datum": "2021",
+    "totem": "ONGEVEINSDE SITTA"
+  },
+  {
+    "naam": "Ward Toelen",
+    "datum": "2013",
+    "totem": "ONOPVALLENDE FRANJEAAP"
+  },
+  {
+    "naam": "Champagne Dieter",
+    "datum": "1998",
+    "totem": "ONOPVALLENDE GOENDI"
+  },
+  {
+    "naam": "Vanermen Aster",
+    "datum": "1988",
+    "totem": "ONRUSTIGE ALGAZEL"
+  },
+  {
+    "naam": "Frison Marie-Claire",
+    "datum": "1976",
+    "totem": "ONRUSTIGE HINDE"
+  },
+  {
+    "naam": "Jammaer Greet",
+    "datum": "1998",
+    "totem": "ONSTUIMIGE BELOEGA"
+  },
+  {
+    "naam": "Gudrun Beyrus",
+    "datum": "2005",
+    "totem": "ONSTUIMIGE EDELPAPEGAAI"
+  },
+  {
+    "naam": "Minten Karel",
+    "datum": "1980",
+    "totem": "ONSTUIMIGE WAPITI"
+  },
+  {
+    "naam": "Ledoux Mathieu",
+    "datum": "2022",
+    "totem": "ONVERDROTEN PRAIRIEHOND"
+  },
+  {
+    "naam": "Reniers Stijn",
+    "datum": "2001",
+    "totem": "ONVERHOLEN BOOMKRUIPER"
+  },
+  {
+    "naam": "Hendrix Janne",
+    "datum": "2022",
+    "totem": "ONVERSAAGDE WOESTIJNVOS"
+  },
+  {
+    "naam": "Vandyk Tom",
+    "datum": "2000",
+    "totem": "ONVERVAARDE WOESTIJNLEEUWERIK"
+  },
+  {
+    "naam": "De Clippel Oscar",
+    "datum": "2007",
+    "totem": "OPENHARTIGE SALANGAAN"
+  },
+  {
+    "naam": "Neven Eric",
+    "datum": "1976",
+    "totem": "OPGEWEKT HERT"
+  },
+  {
+    "naam": "Ramaekers Hans",
+    "datum": "2004",
+    "totem": "OPGEWEKTE SAIGA"
+  },
+  {
+    "naam": "Torsin Hannes",
+    "datum": "2006",
+    "totem": "OPMERKZAME SEKRETARISVOGEL"
+  },
+  {
+    "naam": "Haesevoets Katleen",
+    "datum": "1993",
+    "totem": "OPMERKZAME SNIP"
+  },
+  {
+    "naam": "Kempeners Joachim",
+    "datum": "2003",
+    "totem": "OPRECHTE GOUDKROON"
+  },
+  {
+    "naam": "Dewaelheyns Tom",
+    "datum": "1997",
+    "totem": "OPRECHTE SPINAAP"
+  },
+  {
+    "naam": "Toelen Danny",
+    "datum": "1980",
+    "totem": "OPTIMISTISCHE ZEBRA"
+  },
+  {
+    "naam": "Minschaert Maarten",
+    "datum": "1996",
+    "totem": "ORIGINELE FENNEK"
+  },
+  {
+    "naam": "Bewaerts Elisabeth",
+    "datum": "2007",
+    "totem": "OVERWEGENDE BEVER"
+  },
+  {
+    "naam": "Vanderschelde Dami",
+    "datum": "1977",
+    "totem": "PIENTERE PANDA"
+  },
+  {
+    "naam": "Wemans Eva",
+    "datum": "1997",
+    "totem": "PITTIGE TIMKA"
+  },
+  {
+    "naam": "Nele Vanermen",
+    "datum": "2013",
+    "totem": "PITTIGE TUPAJA"
+  },
+  {
+    "naam": "Lenaerts Auke",
+    "datum": "2023",
+    "totem": "PLEZIERIGE PIEPER"
+  },
+  {
+    "naam": "Gillet Jean-Pierre",
+    "datum": "1978",
+    "totem": "PRETTIGE RAM"
+  },
+  {
+    "naam": "Gillard Nick",
+    "datum": "2003",
+    "totem": "RIJZIGE GRIJZE WOUW"
+  },
+  {
+    "naam": "Deniz Aydagdu",
+    "datum": "2013",
+    "totem": "ROERIGE MAMBA"
+  },
+  {
+    "naam": "Wemans Bart",
+    "datum": "1994",
+    "totem": "RUSTELOZE ROEK"
+  },
+  {
+    "naam": "Berghmans Maarten",
+    "datum": "1998",
+    "totem": "RUSTIG DIBOWSKIHERT"
+  },
+  {
+    "naam": "Pacolet Michel",
+    "datum": "1975",
+    "totem": "RUSTIGE AREND"
+  },
+  {
+    "naam": "Minten Amand",
+    "datum": "1945",
+    "totem": "SARRENDE BUFFEL"
+  },
+  {
+    "naam": "Roekaerts Bavo",
+    "datum": "1997",
+    "totem": "SCHALKSE GNOE"
+  },
+  {
+    "naam": "Vanermen Stijn",
+    "datum": "1989",
+    "totem": "SCHERPZINNIGE VLAAMSE GAAI"
+  },
+  {
+    "naam": "Hellers Naïk",
+    "datum": "1994",
+    "totem": "SCHERPZINNIGE ZWARTE LIJSTER"
+  },
+  {
+    "naam": "Massin Elien",
+    "datum": "2021",
+    "totem": "SCHRANDERE CASTOR"
+  },
+  {
+    "naam": "Van Hoof Liesbet",
+    "datum": "1992",
+    "totem": "SCHRANDERE KAREKIET"
+  },
+  {
+    "naam": "Vanbelle Dirk",
+    "datum": "2003",
+    "totem": "SCHRANDERE TAGOEAN"
+  },
+  {
+    "naam": "Palm Dominique",
+    "datum": "1985",
+    "totem": "SCHUCHTERE GUANACO"
+  },
+  {
+    "naam": "Minschaert Nele",
+    "datum": "1998",
+    "totem": "SCHUCHTERE STRANDLOPER"
+  },
+  {
+    "naam": "Bontinck Elise",
+    "datum": "2009",
+    "totem": "SENSITIEVE TUIMELAAR"
+  },
+  {
+    "naam": "Winderix Marie",
+    "datum": "2023",
+    "totem": "SERENE ZEESCHILDPAD"
+  },
+  {
+    "naam": "Kempeners Anaïs",
+    "datum": "2006",
+    "totem": "SIERLIJKE BLAUWE VULPES"
+  },
+  {
+    "naam": "Court Luc",
+    "datum": "1977",
+    "totem": "SLIMME DUIF"
+  },
+  {
+    "naam": "Wauters Frans",
+    "datum": "1934",
+    "totem": "SLUIPENDE PANTER"
+  },
+  {
+    "naam": "Christiaens Lisa",
+    "datum": "2008",
+    "totem": "SNIBBIG GOUDHAANTJE"
+  },
+  {
+    "naam": "Thiry Isabel",
+    "datum": "1992",
+    "totem": "SOCIALE GAZELLE"
+  },
+  {
+    "naam": "D'' Irumberry Aurélie",
+    "datum": "2018",
+    "totem": "SOCIALE SALUKI"
+  },
+  {
+    "naam": "Ieven Hilde",
+    "datum": "1976",
+    "totem": "SPEELSE EEKHOORN"
+  },
+  {
+    "naam": "Berghmans Joren",
+    "datum": "2008",
+    "totem": "SPEELSE KRAAGHAGEDIS"
+  },
+  {
+    "naam": "Struys Saskia",
+    "datum": "1990",
+    "totem": "SPEELSE OEISTITI"
+  },
+  {
+    "naam": "Cailloux René",
+    "datum": "1977",
+    "totem": "SPEURENDE POEMA"
+  },
+  {
+    "naam": "Juul Peeters",
+    "datum": "1943",
+    "totem": "SPEURENDE SPERWER"
+  },
+  {
+    "naam": "Wuyts Celia ",
+    "datum": "2014",
+    "totem": "SPITANTE HINDE"
+  },
+  {
+    "naam": "Marcucci Carlos",
+    "datum": "1987",
+    "totem": "SPONTANE GRIJZE VOS"
+  },
+  {
+    "naam": "Bollen Marie-Claire",
+    "datum": "1977",
+    "totem": "SPONTANE HAMSTER"
+  },
+  {
+    "naam": "Suttels Liesbeth",
+    "datum": "1995",
+    "totem": "SPONTANE MAKI"
+  },
+  {
+    "naam": "Struys Yves",
+    "datum": "1985",
+    "totem": "SPONTANE QUOKKA"
+  },
+  {
+    "naam": "Pansaerts Margaux ",
+    "datum": "2016",
+    "totem": "SPONTANE STEPPELEMMING"
+  },
+  {
+    "naam": "De Muynck Kaat ",
+    "datum": "2014",
+    "totem": "STANDVASTIGE ANHINGA"
+  },
+  {
+    "naam": "Rutger Tibaut",
+    "datum": "2005",
+    "totem": "STANDVASTIGE KOEDOE"
+  },
+  {
+    "naam": "Sprengers Elien",
+    "datum": "2009",
+    "totem": "STATIGE TARPAN"
+  },
+  {
+    "naam": "Vanschoonbeek Celeste",
+    "datum": "2023",
+    "totem": "STELLIGE SIRA-SIRA"
+  },
+  {
+    "naam": "Tibau Tine",
+    "datum": "1991",
+    "totem": "STIJLVOLLE KRAANVOGEL"
+  },
+  {
+    "naam": "Sprengers Jan",
+    "datum": "1943",
+    "totem": "STILLE BEVER"
+  },
+  {
+    "naam": "Moers Jos",
+    "datum": "1975",
+    "totem": "STILLE VOS"
+  },
+  {
+    "naam": "Georis Rudi",
+    "datum": "1977",
+    "totem": "STOERE BUFFEL"
+  },
+  {
+    "naam": "Baivy Céline",
+    "datum": "2005",
+    "totem": "STOUTMOEDIG LEEUWAAPJE"
+  },
+  {
+    "naam": "Stiers Inge",
+    "datum": "1992",
+    "totem": "STOUTMOEDIGE TORENVALK"
+  },
+  {
+    "naam": "Toelen Lennert ",
+    "datum": "2016",
+    "totem": "STRIJDLUSTIGE STEENAREND"
+  },
+  {
+    "naam": "Vanderwaeren Steven",
+    "datum": "1997",
+    "totem": "STRUISE BANTENG"
+  },
+  {
+    "naam": "Morren Dirk",
+    "datum": "1979",
+    "totem": "STRUISE HERMELIJN"
+  },
+  {
+    "naam": "Viktor Somers",
+    "datum": "2013",
+    "totem": "STURENDE KUIFMEES"
+  },
+  {
+    "naam": "Berwaerts Filip",
+    "datum": "1980",
+    "totem": "SUBTIELE KAMEEL"
+  },
+  {
+    "naam": "Thiry Leen",
+    "datum": "1996",
+    "totem": "SUBTIELE SAKI"
+  },
+  {
+    "naam": "Roosen Wilfried",
+    "datum": "1991",
+    "totem": "SYMPATHIEKE GOUDVINK"
+  },
+  {
+    "naam": "Nulens Miet",
+    "datum": "2009",
+    "totem": "SYMPATHIEKE SPITSSNUITDOLFIJN"
+  },
+  {
+    "naam": "Petermans Fien",
+    "datum": "2020",
+    "totem": "TEDERE SAIGA"
+  },
+  {
+    "naam": "Ieven Ria",
+    "datum": "1977",
+    "totem": "TEDERE VLINDER"
+  },
+  {
+    "naam": "Strauven Emily",
+    "datum": "2009",
+    "totem": "TEMPERAMENTVOLLE FITIS"
+  },
+  {
+    "naam": "Hallet Kim",
+    "datum": "1996",
+    "totem": "TEMPERAMENTVOLLE PICATATAPUIT"
+  },
+  {
+    "naam": "Coart Piet",
+    "datum": "1985",
+    "totem": "TERE LYNX"
+  },
+  {
+    "naam": "Minten Benny",
+    "datum": "1984",
+    "totem": "TERE MUNGO"
+  },
+  {
+    "naam": "Raeymaeckers Luk",
+    "datum": "1980",
+    "totem": "TERE WOLF"
+  },
+  {
+    "naam": "Colompar Kevin",
+    "datum": "2018",
+    "totem": "TIERIGE WALRUS"
+  },
+  {
+    "naam": "Torsin Line",
+    "datum": "2009",
+    "totem": "TOEGEWIJDE GAZELLE"
+  },
+  {
+    "naam": "Vandelook Jaak",
+    "datum": "1987",
+    "totem": "TOEGEWIJDE WISENT"
+  },
+  {
+    "naam": "Vanham Raymond",
+    "datum": "1976",
+    "totem": "TOFFE KANGOEROE"
+  },
+  {
+    "naam": "Lens Wim",
+    "datum": "1982",
+    "totem": "TROTSE PONY"
+  },
+  {
+    "naam": "Toelen Jean-Paul",
+    "datum": "1977",
+    "totem": "TROUWE ANTILOOP"
+  },
+  {
+    "naam": "Moniquet Sabien",
+    "datum": "1994",
+    "totem": "TROUWE CHINCHILLA"
+  },
+  {
+    "naam": "Winnen Hans",
+    "datum": "1986",
+    "totem": "TROUWE OCELOT"
+  },
+  {
+    "naam": "Devijver Lotte",
+    "datum": "2022",
+    "totem": "TROUWHARTIG SIKAHERT"
+  },
+  {
+    "naam": "Frison Katrien",
+    "datum": "2011",
+    "totem": "TROUWHARTIGE SPREEUW"
+  },
+  {
+    "naam": "Ruys Tieme",
+    "datum": "2017",
+    "totem": "UITBUNDIGE EEKHOORN"
+  },
+  {
+    "naam": "Vanham Karlien",
+    "datum": "1993",
+    "totem": "UITBUNDIGE LEMMING"
+  },
+  {
+    "naam": "Sprengers Ann",
+    "datum": "1976",
+    "totem": "UITBUNDIGE TIJGER"
+  },
+  {
+    "naam": "Sarr Aminata",
+    "datum": "2018",
+    "totem": "UNIEKE ARGANAZ"
+  },
+  {
+    "naam": "Goffings Lucia",
+    "datum": "1983",
+    "totem": "UNIEKE GIRAF"
+  },
+  {
+    "naam": "Tibau Piet",
+    "datum": "1993",
+    "totem": "VASTBERADEN BOOMMARTER"
+  },
+  {
+    "naam": "Vanermen Wilfried",
+    "datum": "1983",
+    "totem": "VEELZIJDIGE GIBBON"
+  },
+  {
+    "naam": "Guilliams Koen",
+    "datum": "1987",
+    "totem": "VEELZIJDIGE OKAPI"
+  },
+  {
+    "naam": "Hermans Edith",
+    "datum": "1977",
+    "totem": "VERDRAAGZAME MEREL"
+  },
+  {
+    "naam": "Kapinga Cecile",
+    "datum": "1981",
+    "totem": "VERFIJNDE MEEUW"
+  },
+  {
+    "naam": "Dewolfs Magda",
+    "datum": "1979",
+    "totem": "VERGEVENDE LIJSTER"
+  },
+  {
+    "naam": "Vanermen Cedric",
+    "datum": "2011",
+    "totem": "VERMAKELIJKE ARASSARI"
+  },
+  {
+    "naam": "Dewaelheyns Elena",
+    "datum": "2019",
+    "totem": "VERNUFTIGE GOLDEN RETRIEVER"
+  },
+  {
+    "naam": "Hester Vanermen",
+    "datum": "2013",
+    "totem": "VERRASSENDE LEANA"
+  },
+  {
+    "naam": "Reynders Yannick",
+    "datum": "1996",
+    "totem": "VERSTANDIGE SITATUNGA"
+  },
+  {
+    "naam": "Vanelderen Els",
+    "datum": "1984",
+    "totem": "VERZOENENDE WALLABY"
+  },
+  {
+    "naam": "Mombaerts Luc",
+    "datum": "1984",
+    "totem": "VINDINGRIJKE KAMELEON"
+  },
+  {
+    "naam": "Degezelle Dieter",
+    "datum": "1993",
+    "totem": "VINDINGRIJKE ROZE SPREEUW"
+  },
+  {
+    "naam": "Marchant Sarah",
+    "datum": "2002",
+    "totem": "VINNIG ROODBORSTJE"
+  },
+  {
+    "naam": "Alloing Leen",
+    "datum": "1998",
+    "totem": "VINNIGE MAGOEARI"
+  },
+  {
+    "naam": "Vermeiren Caroline",
+    "datum": "1978",
+    "totem": "VINNIGE ZWALUW"
+  },
+  {
+    "naam": "Ledoux Filip",
+    "datum": "1990",
+    "totem": "VLEIENDE KOELAN"
+  },
+  {
+    "naam": "Vanham Tony",
+    "datum": "1945",
+    "totem": "VLIJTIGE BIJ"
+  },
+  {
+    "naam": "Cologne Sarah",
+    "datum": "2002",
+    "totem": "VLIJTIGE SERIEMA"
+  },
+  {
+    "naam": "Jacquemin Henri",
+    "datum": "1975",
+    "totem": "VLUGGE BEVER"
+  },
+  {
+    "naam": "Sprengers Guido",
+    "datum": "1943",
+    "totem": "VLUGGE VOS"
+  },
+  {
+    "naam": "Bollen Augustin",
+    "datum": "1975",
+    "totem": "VOLGZAME ELAND"
+  },
+  {
+    "naam": "Vanham Mia",
+    "datum": "1982",
+    "totem": "VOLHARDEND VEULEN"
+  },
+  {
+    "naam": "Robert Ilse",
+    "datum": "1986",
+    "totem": "VOLHARDENDE KATBEER"
+  },
+  {
+    "naam": "Frison Johan",
+    "datum": "1996",
+    "totem": "VOLHARDENDE MANDRIL"
+  },
+  {
+    "naam": "Hoogmartens Jolien",
+    "datum": "2011",
+    "totem": "VOLHARDENDE SCHOLEKSTER"
+  },
+  {
+    "naam": "Lemmens Marleen",
+    "datum": "1979",
+    "totem": "VOORBEELDIGE ZEESTER"
+  },
+  {
+    "naam": "Stéphane Lauwerys",
+    "datum": "2013",
+    "totem": "VOORTVARENDE ORANG OETANG"
+  },
+  {
+    "naam": "Breels Chloé ",
+    "datum": "2016",
+    "totem": "VOORZICHTIGE ARA"
+  },
+  {
+    "naam": "Coenen Geert",
+    "datum": "1980",
+    "totem": "VRAAMDE MAKI"
+  },
+  {
+    "naam": "Ceuleers Fien",
+    "datum": "2011",
+    "totem": "VREEDZAME BIJ"
+  },
+  {
+    "naam": "Baron Kaat",
+    "datum": "2022",
+    "totem": "VRIJGEVOCHTEN ZWALUW"
+  },
+  {
+    "naam": "Van Damme Annelies",
+    "datum": "1998",
+    "totem": "VRIJMOEDIGE ARAKANGA"
+  },
+  {
+    "naam": "Lemmens Fanny",
+    "datum": "2019",
+    "totem": "VRIJMOEDIGE COATI"
+  },
+  {
+    "naam": "Gillet Liesbet",
+    "datum": "2007",
+    "totem": "VRIJMOEDIGE KRAANVOGEL"
+  },
+  {
+    "naam": "Smet Alexandra",
+    "datum": "2009",
+    "totem": "VROLIJK KWIKSTAARTJE"
+  },
+  {
+    "naam": "Nijs Lieve",
+    "datum": "1977",
+    "totem": "VROLIJKE MUSTANG"
+  },
+  {
+    "naam": "Degezelle Karlien",
+    "datum": "1995",
+    "totem": "VROLIJKE SPITSSNUITDOLFIJN"
+  },
+  {
+    "naam": "Cauwenberg Brett",
+    "datum": "2011",
+    "totem": "VURIGE ARAKANGA"
+  },
+  {
+    "naam": "Vandevorst Katleen",
+    "datum": "1995",
+    "totem": "WAAKZAME FLAMINGO"
+  },
+  {
+    "naam": "Hombroek Geert",
+    "datum": "1994",
+    "totem": "WAARDIGE BARRY"
+  },
+  {
+    "naam": "Cailloux Fernand",
+    "datum": "1977",
+    "totem": "WAKKERE BIZON"
+  },
+  {
+    "naam": "Elisa Suttels",
+    "datum": "2024",
+    "totem": "WARMHARTIGE NESTOR"
+  },
+  {
+    "naam": "Buntinx Ruben",
+    "datum": "2023",
+    "totem": "WEERSPANNIGE HARDOEN"
+  },
+  {
+    "naam": "Lauwers Aryan",
+    "datum": "2020",
+    "totem": "WELGEMEENDE SCHOENBEKOOIEVAAR"
+  },
+  {
+    "naam": "Nganzadi Daphné",
+    "datum": "2023",
+    "totem": "WELGEZINDE ORIOLO"
+  },
+  {
+    "naam": "Kurkiewicz Youri",
+    "datum": "2009",
+    "totem": "WELLEVENDE WASBEER"
+  },
+  {
+    "naam": "Julie Ledoux",
+    "datum": "2024",
+    "totem": "WELOVERWOGEN JACHTLUIPAARD"
+  },
+  {
+    "naam": "Cauwenberg Gill",
+    "datum": "2008",
+    "totem": "WELSPREKENDE NILGIRI"
+  },
+  {
+    "naam": "Boyen Kaat",
+    "datum": "2020",
+    "totem": "WELWILLENDE GAVIALO"
+  },
+  {
+    "naam": "Goyens Pieter",
+    "datum": "2003",
+    "totem": "WELWILLENDE ZWARTE KAKETOE"
+  },
+  {
+    "naam": "Mombaerts Michel",
+    "datum": "1976",
+    "totem": "WERKZAME JAGUAR"
+  },
+  {
+    "naam": "Scalais Rika",
+    "datum": "1999",
+    "totem": "WIERIGE FODI"
+  },
+  {
+    "naam": "Peeters Gary",
+    "datum": "1986",
+    "totem": "WIJZE ZWARTE KAKETOE"
+  },
+  {
+    "naam": "Ledoux Louis",
+    "datum": "2020",
+    "totem": "WILSKRACHTIGE HAAI"
+  },
+  {
+    "naam": "Nooyens Brent",
+    "datum": "2019",
+    "totem": "WOELIGE KUCHA"
+  },
+  {
+    "naam": "Buve Ann",
+    "datum": "1987",
+    "totem": "WULPSE MORGAN"
+  },
+  {
+    "naam": "Devleeschauwer Samuel",
+    "datum": "1990",
+    "totem": "ZACHTAARDIGE HAZEWIND"
+  },
+  {
+    "naam": "Wuyts Jonas",
+    "datum": "2010",
+    "totem": "ZACHTAARDIGE MARA"
+  },
+  {
+    "naam": "Respen Luk",
+    "datum": "1977",
+    "totem": "ZACHTE LEEUW"
+  },
+  {
+    "naam": "Siaens Jos",
+    "datum": "1983",
+    "totem": "ZACHTMOEDIGE KODIAK"
+  },
+  {
+    "naam": "Vandewauver Jelle ",
+    "datum": "2016",
+    "totem": "ZACHTMOEDIGE ROEK"
+  },
+  {
+    "naam": "Flores Sheridan",
+    "datum": "2014",
+    "totem": "ZACHTZINNIGE GNOE"
+  },
+  {
+    "naam": "Jolien L''homme",
+    "datum": "2012",
+    "totem": "ZELFSTANDIGE LORI"
+  },
+  {
+    "naam": "Claes Inge",
+    "datum": "1983",
+    "totem": "ZELFSTANDIGE OESTER"
+  },
+  {
+    "naam": "Graindor Thomas",
+    "datum": "2023",
+    "totem": "ZELFZEKERE ALPACA"
+  },
+  {
+    "naam": "Vanermen Frank",
+    "datum": "1986",
+    "totem": "ZELFZEKERE IRBIS"
+  },
+  {
+    "naam": "Dimbour Melchior",
+    "datum": "2010",
+    "totem": "ZELFZEKERE KOOKABURRA"
+  },
+  {
+    "naam": "Sprengers Bruno",
+    "datum": "1981",
+    "totem": "ZINGENDE ALBATROS"
+  },
+  {
+    "naam": "Sarah van Hissenhoven",
+    "datum": "2013",
+    "totem": "ZINNIGE BARIBAL"
+  },
+  {
+    "naam": "Demeyer Merel",
+    "datum": "2023",
+    "totem": "ZONNIG LEEUWAAPJE"
+  },
+  {
+    "naam": "Maupin Frederik",
+    "datum": "1996",
+    "totem": "ZORGELOOS NIJLPAARD"
+  },
+  {
+    "naam": "Thibault de Donnea",
+    "datum": "2012",
+    "totem": "ZORGELOZE HIPPO"
+  },
+  {
+    "naam": "Rik Bossier",
+    "datum": "2024",
+    "totem": "ZORGELOZE ZWAARDVIS"
+  },
+  {
+    "naam": "Kinnart Griet",
+    "datum": "1987",
+    "totem": "ZORGZAAM ROODBORSTJE"
+  },
+  {
+    "naam": "Bulthez Ewa",
+    "datum": "1995",
+    "totem": "ZORGZAME DAFRA"
+  },
+  {
+    "naam": "Vanderwaeren Guido",
+    "datum": "1959",
+    "totem": "ZORGZAME PANTER"
+  },
+  {
+    "naam": "Ulens Ivan",
+    "datum": "1979",
+    "totem": "ZWIJGZAME DALMATIËR"
+  }
+]

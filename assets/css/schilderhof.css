@@ -1,0 +1,197 @@
+.dropdown {
+  font-size: smaller;
+  color: inherit;
+}
+.turnGreenLogo {
+  color: #90a454;
+}
+.turnSmoothGreen {
+  color: #90a454;
+}
+
+.allign-center {
+  text-align: center;
+}
+i:hover {
+  color: black;
+}
+.search-bar {
+  display: flex;
+  justify-content: center;
+  padding: 24px;
+}
+main.page {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+.search-bar input {
+  width: 50%;
+  min-width: 300px;
+  padding: 12px 24px;
+  border-radius: 24px;
+  font-size: 16px;
+  border: 0;
+  outline: none;
+}
+footer.page-footer {
+  width: 100% !important; /* Ensures the footer takes full device width */
+  margin: 0 auto; /* Center align footer content */
+}
+.search-bar [list]::-webkit-calendar-picker-indicator {
+  display: none !important;
+}
+#info {
+  display: none;
+}
+/* Media query for screens less than 768px */
+@media (max-width: 768px) {
+  /* Hide all images */
+  img {
+    display: none !important;
+  }
+
+  /* Hide the logo and home icon */
+  .navbar-brand,
+  .navbar-nav .nav-item:first-child {
+    display: none !important;
+  }
+  #info {
+    display: inline;
+  }
+  #overOns {
+    display: none;
+  }
+  main {
+    padding-top: 20px;
+  }
+
+  /* Make the navbar use the full width */
+  .navbar-collapse {
+    width: 100% !important;
+    justify-content: center;
+  }
+
+  /* Center all text */
+  body,
+  h2,
+  h3,
+  p,
+  a {
+    text-align: center;
+  }
+
+  /* Ensure the main section uses 100% of the width */
+  main.page {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  /* Remove the background image and set a transparent background */
+  #mainSectionWithImage {
+    background-image: none !important;
+    background-color: transparent !important;
+  }
+
+  /* Ensure navbar is centered and more mobile-friendly */
+  .navbar-nav {
+    text-align: center;
+    width: 100%;
+  }
+  footer.page-footer .container {
+    display: none !important; /* Hide all content inside the footer except the copyright */
+  }
+
+  footer.page-footer .footer-copyright {
+    display: block !important; /* Ensure the copyright section remains visible */
+    text-align: center; /* Optionally center-align the text */
+    padding: 10px 0; /* Add some padding for better appearance */
+  }
+
+  .feature-text {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .feature-header {
+    margin-bottom: 10px; /* Space between the heading and the paragraph */
+  }
+
+  .feature-header svg {
+    margin-right: 0; /* Remove margin for smaller screens */
+    margin-bottom: 10px; /* Add space below the icon for vertical layout */
+  }
+
+  .feature-header h4 {
+    margin: 0;
+  }
+}
+
+/* Media query for screens less than 1000px */
+@media (max-width: 1000px) {
+  /* Hide the logo */
+  #logo {
+    display: none !important;
+  }
+
+  /* Hide the hamburger menu */
+  .navbar-toggler {
+    display: none !important;
+  }
+
+  /* Hide the SVG icons */
+  svg {
+    display: none !important;
+  }
+
+  /* Keep navbar items in a row but centered */
+  .navbar-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .navbar-nav .nav-item {
+    text-align: center;
+    margin: 0 10px;
+  }
+  .feature-text {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .feature-header {
+    display: flex;
+    align-items: center;
+  }
+
+  .feature-header svg {
+    margin-right: 10px; /* Adjust spacing between icon and heading */
+  }
+
+  .feature-header h4 {
+    margin: 0;
+  }
+  /* Make the navbar static (not fixed) and full-width */
+  .navbar {
+    position: static !important;
+    width: 100%;
+    padding: 10px 0;
+  }
+
+  /* Ensure the navbar-collapse also takes up full width */
+  .navbar-collapse {
+    width: 100% !important;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 576px) {
+  .navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
