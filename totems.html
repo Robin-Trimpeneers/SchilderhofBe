@@ -11,8 +11,14 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/Montserrat.css">
     <link rel="stylesheet" href="assets/css/baguetteBox.min.css">
-    <link rel="stylesheet" href="assets/css/schilderhof.css">
+
+    <link rel="stylesheet" href="assets/css/totems.css">
     <link rel="stylesheet" href="assets/css/vanilla-zoom.min.css">
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/baguetteBox.min.js"></script>
+    <script src="assets/js/vanilla-zoom.js"></script>
+    <script src="assets/js/theme.js"></script>
+    <script src="assets/js/schilderhof.js"></script>
 </head>
 
 <body>
@@ -46,7 +52,7 @@
                     <h3 class="allign-center">Zoek een totem</h3>
                 <div class="search-bar">
                     <p>
-                  <input  class="allign-center"  id="search" type="search" placeholder="Typ om een totem te zoeken..." />
+                  <input  class="allign-center"  onkeydown="checkEnter(event)"  id="search" type="search" placeholder="Typ om een totem te zoeken..." />
                         <a onclick="searchTotems()">
                     <svg xmlns="http://www.w3.org/2000/svg"  width="40" height="40" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
                         <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
@@ -105,7 +111,7 @@
                         <td class=" allign-center">BALDADIGE SCHILDPAD</td>
                     </tr>
                     <tr>
-                        <td class=" allign-center">Aïsa Lowel</td>
+                        <td class=" allign-center">Aisha Lowel</td>
                         <td class=" allign-center">DAADKRACHTIGE TIGRIS</td>
                     </tr>
                     <tr>
@@ -149,7 +155,7 @@
                         <td class=" allign-center">ZELFZEKERE ALPACA</td>
                     </tr>
                     <tr>
-                        <td class=" allign-center">Demeyer Merel</td>
+                        <td class=" allign-center">De Meyer Merel</td>
                         <td class=" allign-center">ZONNIG LEEUWAAPJE</td>
                     </tr>
                     <tr>
@@ -165,7 +171,7 @@
                         <td class=" allign-center">SERENE ZEESCHILDPAD</td>
                     </tr>
                     <tr>
-                        <td class=" allign-center">Vanschoonbeek Celeste</td>
+                        <td class=" allign-center">Vanschoonbeek Céleste</td>
                         <td class=" allign-center">STELLIGE SIRA-SIRA</td>
                     </tr>
                     <tr>
@@ -174,7 +180,7 @@
                         </td>
                     </tr>
                     <tr>
-                        <td class=" allign-center">Demeyer Amber</td>
+                        <td class=" allign-center">De Meyer Amber</td>
                         <td class=" allign-center">GLOEDVOLLE PRAIRIEWOLF</td>
                     </tr>
                     <tr>
@@ -2295,11 +2301,7 @@
             <p>© 2024 Sint-Joris Landen | Bereidwillige Sneeuwuil</p>
         </div>
     </footer>
-    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="assets/js/baguetteBox.min.js"></script>
-    <script src="assets/js/vanilla-zoom.js"></script>
-    <script src="assets/js/theme.js"></script>
-    <script src="assets/js/schilderhof.js"></script>
+
 </body>
 
 </html>

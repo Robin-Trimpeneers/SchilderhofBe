@@ -1,3 +1,24 @@
+// Attach the event listener to the input field on DOMContentLoaded
+document.addEventListener('DOMContentLoaded', function () {
+    const searchInput = document.getElementById('search');
+
+    // Listen for the keydown event
+    searchInput.addEventListener('keydown', checkEnter);
+
+    // Optional: Disable autocorrect, autocomplete, and autocapitalize on mobile
+    searchInput.setAttribute('autocorrect', 'off');
+    searchInput.setAttribute('autocomplete', 'off');
+    searchInput.setAttribute('autocapitalize', 'off');
+});
+
+// Function to check for Enter key press
+function checkEnter(event) {
+    if (event.key === 'Enter' || event.keyCode === 13) {
+        event.preventDefault(); // Prevent default form submission (if inside a form)
+        searchTotems();  // Call your function here
+    }
+}
+
 // Define the search function
 async function searchTotems() {
     const queryElement = document.getElementById('search');
@@ -10,7 +31,7 @@ async function searchTotems() {
 
     try {
         // Fetch the JSON data from the given URL
-        const response = await fetch('https://schilderhof.be/totems.JSON');
+        const response = await fetch('./totems.JSON');
 
         // Check if the request was successful
         if (!response.ok) {
@@ -84,11 +105,3 @@ function displayResultsInTable(results) {
         resultsDiv.textContent = 'No results found'; // Use textContent to prevent XSS
     }
 }
-
-// Add event listener for Enter key press
-document.getElementById("search").addEventListener("keydown", function (e) {
-    if (e.code === "Enter") {
-        e.preventDefault(); // Prevent default action (e.g., form submission)
-        searchTotems();
-    }
-});
